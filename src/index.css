@@ -1,0 +1,9 @@
+/** @format */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.small-bar {
+  background: linear-gradient(90deg, #28bbffe0, #ff0000e0);
+}
